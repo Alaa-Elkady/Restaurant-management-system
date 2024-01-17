@@ -32,3 +32,13 @@ npm run build
 ```sh
 npm install vue-router@4
 ```
+###Notes
+```sh
+this management system contains:
+-sign up page
+-login page
+-home page "displays existing restaurants"
+-add restaurant page
+-update restaurant page
+
+```
